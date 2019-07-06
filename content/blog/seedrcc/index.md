@@ -1,5 +1,5 @@
 ---
-title: Cloud Torrenting With Seedrr.cc {Life Saver}
+title: Cloud Torrenting With Seedr.cc {Life Saver}
 published: true
 tags: Seedr.cc torrent cloud
 date: "2019-07-06T22:12:03.284Z"
